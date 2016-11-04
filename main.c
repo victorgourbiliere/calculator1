@@ -6,6 +6,10 @@ int addition (int a, int b)
 }
 int main()
 {
+<<<<<<< HEAD
     printf("a+b=%d", addition(1,4));
+=======
+    printf("l'addition de a et b vaux : %d", addition(1,4));
+>>>>>>> origin/master
     return 0;
 }
