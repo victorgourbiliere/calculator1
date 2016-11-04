@@ -6,6 +6,6 @@ int addition (int a, int b)
 }
 int main()
 {
-    printf("Hello world!\n");
+    printf("a+b=%d", addition(1,4));
     return 0;
 }
